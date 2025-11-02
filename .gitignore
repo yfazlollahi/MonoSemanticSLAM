@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+env/
+venv/
+
+# Data & models
+data/*
+!data/README.md
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
